@@ -14,4 +14,4 @@ Repositorio de la clase de Bioinformatica
 
 ## INFORMACIÓN
 <https://bioinfotraining.bio.cam.ac.uk/>
-alguna patanada
+
