@@ -12,3 +12,4 @@ La ejecución se realizó en el script <netsize.sh>
 2. Escriba un script que imprima el número de filas y
 columnas para cada red:
 
+La ejecución se realizó en el script <netsize_all.sh>
