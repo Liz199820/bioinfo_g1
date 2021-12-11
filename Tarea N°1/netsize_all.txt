@@ -57,4 +57,4 @@ n6.txt 9 n6.txt 31
 n7.txt 16 n7.txt 25
 n8.txt 19 n8.txt 33
 n9.txt 12 n9.txt 22
-resultados2.txt 60 resultados2.txt 16
+
