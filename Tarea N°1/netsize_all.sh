@@ -3,3 +3,5 @@
 archivo=*.txt
 #echo: este comando nos ayuda a imprimir lo que contiene nuestra variable
 echo $archivo
+# crear loop, donde:
+for data in $archivo; do f=$(wc -l $data); c=$(head -n 1 $data | tr -d " " | tr -d "\n" | wc -c); echo $data $f $c; done
