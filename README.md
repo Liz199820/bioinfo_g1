@@ -8,6 +8,11 @@ columnas están separadas por espacios y que hay un espacio al final de cada lí
 
 La ejecución se realizó en el script <netsize.sh>
 
+Para la ejecución se usó Bash
+# ¿Para que sirve esto?
+Los comandos Bash son conjunto de parámetros utilizados para la administración y configuración del sistema, así como un conjunto de combinaciones especiales de teclas para realizar tareas específicas en entornos Linux/Unix mediante un intérprete de comandos Bash
+
+
 # EJERCICIO PARTE 2
 2. Escriba un script que imprima el número de filas y
 columnas para cada red:
