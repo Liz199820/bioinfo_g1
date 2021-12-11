@@ -1,3 +1,10 @@
+# REPOSITORIO
+GitHub
+# Autor
+Lizeth Garcia
+
+# Tarea
+
 #  EJERCICIO 1.10.3 REDES DE POLINIZADORES DE PLANTAS
 Saavedra y Stouffer (2013) estudiaron varias redes de polinizadores de plantas. Estas pueden representarse como matrices rectangulares donde las filas son 
 polinizadores, las columnas plantas, un 0 indica la ausencia y 1 la presencia de una interacción entre la planta y el polinizador.
