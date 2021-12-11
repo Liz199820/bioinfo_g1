@@ -19,6 +19,7 @@ Los comandos Bash son conjunto de parámetros utilizados para la administración
 
 # DESARROLLO
 -escribir un script que tome uno de los archivos y determine el número de filas (polinizadores) y columnas (plantas). El script se encuentra en el archivo netsize.sh y los resultados en netsize.txt.
+
 -La ejecución se realizó en <netsize.sh> y los resultados en netsize.txt
 
 # EJERCICIO PARTE 2
@@ -27,5 +28,6 @@ columnas para cada red:
 
 # DESARROLLO
 -En la resolución para la segunda parte del ejercicio es necesario escribir un script que imprima los números de filas y columnas para cada archivo de la carpeta. El script se encuentra en el archivo netsize_all.sh y los resultados en netsize_all.txt.
-La ejecución se realizó en el script <netsize_all.sh>
+
+-La ejecución se realizó en el script <netsize_all.sh>
 
