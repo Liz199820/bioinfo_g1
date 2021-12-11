@@ -1,1 +1,3 @@
-
+Nombre=n1.txt
+Número de columnas: 80
+Número de filas: 97
