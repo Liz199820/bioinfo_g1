@@ -9,3 +9,6 @@ echo $archivo
 for data in $archivo; do f=$(wc -l $data); c=$(head -n 1 $data | tr -d " " | tr -d "\n" | wc -c); echo $data $f $c; done
 # Comando para guardar mi archivo
 for data in $archivo; do f=$(wc -l $data); c=$(head -n 1 $data | tr -d " " | tr -d "\n" | wc -c); echo $data $f $c >> ../../../../netsize_all.txt; done
+
+# Comando que muestra los archivos y listo
+cat ../../../../netsize_all.txt
